@@ -5,7 +5,7 @@ public class conditionalstatement2 {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
         int y = sc.nextInt();
-
+        //IF AND ELESE CONDITIONAL STATEMENT 
         if(x %2 ==0){
             System.out.println("even");
         }else {
